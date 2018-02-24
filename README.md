@@ -30,3 +30,7 @@ Hello  - Phyton example
 Click [acá](https://www.google.com.co/) para ir a Google
 
 Sawadee krap
+
+## Sección 4
+
+Texto adicional
