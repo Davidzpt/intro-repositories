@@ -9,9 +9,9 @@
 
 # Nuevo código
 
-n = "Hola"
-c = "Mundo"
+o = "Hola"
+p = "Mundo"
 
-a = n + c
+m = o + p
 
-print(a)
+print(m)
